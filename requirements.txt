@@ -1,1 +1,5 @@
-pandas
+pandas 
+numpy
+flask
+
+-e .
